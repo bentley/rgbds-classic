@@ -1,0 +1,8 @@
+This is the oldest RGBDS source code I can find:
+
+https://web.archive.org/web/20070210150842/http://www.rift.dk/download.php?list.6
+https://web.archive.org/web/20070210150842/http://www.rift.dk/download.php?view.12
+
+Note: despite the license text in the original source code, the author and copyright holder, Carsten Sørensen, has [authorized](https://github.com/rednex/rgbds/issues/128#issuecomment-360090230) relicensing under MIT:
+
+> I'm fine with whatever you guys decide to do with RGBDS, as long as you decide on a license moving forward. Feel free to relicense my original code (if any is still left) under GPL, ISC, MIT, BSD, APL.
